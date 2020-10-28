@@ -6,7 +6,8 @@ html {
   
 body {
     font-size: 18px;
-    background-color: rgb(231, 238, 235);
+    /* background-color: rgb(231, 238, 235); */
+    background-color: red;
 }
   
 h1 {
